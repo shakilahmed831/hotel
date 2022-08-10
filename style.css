@@ -1,0 +1,158 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+
+}
+.top{
+	background-color: #fff;
+	width: 100%;
+	height: 10vh;
+}
+
+a{
+	text-decoration:none;
+	color:#000;
+	margin: 0 0 0 0;
+	padding: 0 25px 0 50px;
+	font-size: 20px;
+	letter-spacing: 5px;
+}
+
+.top{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: fixed;
+}
+.image{
+	width:100%;
+	height: 100vh;
+}
+.cover{
+	font-size: 20px;
+	padding: 0 0 0 0;
+}
+
+.about{
+	margin: 50px 0 50px 220px;
+	padding: 0 0 0 0;
+	display: flex;
+}
+
+.apera{
+	line-height: 1.5;
+	padding: 30px 160px 0 70px;
+}
+
+.first-line{
+	padding: 30px 0 25px 0;
+	letter-spacing: 3px;
+	text-align: center;
+}
+.aheading{
+	text-align: center;
+}
+
+.amain-pera{
+	font-size: 18px;
+}
+.a1{
+	text-align: center;
+}
+
+.p2{
+	padding: 30px 0 0 0;
+	color: #757575;
+}
+
+.sea{
+	background-color: #f1f1f1;
+	color: #000;
+	padding: 1px 5px 1px 5px;
+}
+
+.hr{
+	border: 0;
+	border-top: 1px solid #eee;
+	margin: 100px 130px 60px 200px;
+}
+
+h4{
+	padding: 0 0 20px 0;
+	font-size: 25px;
+	letter-spacing: 5px;
+	font-weight: 400;
+}
+
+.menu{
+	padding: 0 0 0 250px;
+	display: flex;
+}
+
+.mheading{
+	text-align: center;
+}
+
+.m1{
+	padding: 20px 0 30px 0;
+}
+
+.items{
+	padding: 0 30px 0 0;
+}
+p{	
+	font-size: 15px;
+}
+
+.apera p{
+	font-size: 18px;
+}
+.items p{
+	color: #757575;
+}
+
+.ch{
+	letter-spacing: 7px;
+	font-size: 30px;
+	padding: 0 0 70px 0;
+}
+.con{	
+	padding: 0 260px 50px 200px;
+}
+
+b{
+	color: #607d8b;
+	padding: 0 0 50px 0;
+	font-size: 17px;
+}
+
+.pera1{
+	padding: 0 0 50px 0;
+}
+
+.con1{
+	padding: 50px 0 30px 0;
+}
+
+.rip{
+	padding: 0px 0 30px 0;
+}
+.name{
+	width: 100%;
+	height: 40px;
+	border: none;
+	border-bottom: 1px solid #eee;
+	margin: 10px
+	padding: 5px;
+}
+
+.button{
+	color: #000;
+	background-color: #f1f1f1;
+	font-size: 15px;
+	padding: 10px;
+	margin: 0 0 0 0;
+	letter-spacing: 0;
+}
